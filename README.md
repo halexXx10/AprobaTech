@@ -8,3 +8,7 @@ AprobaTech es un programa para gestionar las notas de los estudiantes. Permite a
        - Estudiantes con promedio igual o superior a 3.0 son clasificados como aprobados.
        - Estudiantes con promedio inferior a 3.0 son clasificados como reprobados.
 - **Interfaz de Texto:** La interacción con el usuario es a través de la consola, donde se solicitan y validan los datos.
+
+- Realizado por: Haider Carreño / 192350
+                 Jesús Zapata / 192342
+                 David Montaño / 192347
